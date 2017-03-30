@@ -12,6 +12,7 @@
 		BAF577901E8C1D4500975750 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAF5778E1E8C1D4500975750 /* Main.storyboard */; };
 		BAF577921E8C1D4500975750 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAF577911E8C1D4500975750 /* Assets.xcassets */; };
 		BAF577951E8C1D4500975750 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAF577931E8C1D4500975750 /* LaunchScreen.storyboard */; };
+		BAF5779D1E8DBDA500975750 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BAF5779C1E8DBDA500975750 /* 1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BAF577911E8C1D4500975750 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BAF577941E8C1D4500975750 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BAF577961E8C1D4600975750 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BAF5779C1E8DBDA500975750 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				BAF577911E8C1D4500975750 /* Assets.xcassets */,
 				BAF577931E8C1D4500975750 /* LaunchScreen.storyboard */,
 				BAF577961E8C1D4600975750 /* Info.plist */,
+				BAF5779C1E8DBDA500975750 /* 1.jpg */,
 			);
 			path = HorizontalScrollView;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BAF577951E8C1D4500975750 /* LaunchScreen.storyboard in Resources */,
+				BAF5779D1E8DBDA500975750 /* 1.jpg in Resources */,
 				BAF577921E8C1D4500975750 /* Assets.xcassets in Resources */,
 				BAF577901E8C1D4500975750 /* Main.storyboard in Resources */,
 			);
@@ -302,6 +306,7 @@
 				BAF5779B1E8C1D4600975750 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
